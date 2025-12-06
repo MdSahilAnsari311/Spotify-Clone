@@ -35,4 +35,4 @@ This project is great for beginners to practice **CSS Flexbox, layout structurin
 
 # Credits
 - Icons: Font Awesome  
-- Fonts: Google Fonts  
+- Fonts: Google Fonts
